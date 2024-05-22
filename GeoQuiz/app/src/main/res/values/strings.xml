@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="ques_text">Котлин - объектно-ориентированный язык?</string>
+    <string name="true_button">Верно</string>
+    <string name="false_button">Неверно</string>
+    <string name="correct_toast">Вы правы!</string>
+    <string name="incorrect_toast">Вы ошиблись!</string>
+</resources>
